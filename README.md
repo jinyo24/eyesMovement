@@ -1,6 +1,6 @@
 <h1 align="center">Eyes Movement</h1>
 <h3>Description</h3>
-<p>Interactive webpage, part of the MITxPro Bootcamp, based on JavaScript and CSS to animate a pair of eyes. I have used and event listener to capture the mouse position and move the eyes in real time. The eyes follow the mouse wherever it is. This project was made with html, css and javascript using the DOM to animate the eyes. </p>
+<p>Interactive webpage, part of the MITxPro Bootcamp, based on JavaScript and CSS to animate a pair of eyes. I have used and event listener to capture the mouse position and move the eyes in real time. The eyes follow the mouse wherever it is. This project was made with html, css and javascript using the DOM and vanilla CSS to animate the elements. </p>
 
 <h3>How to run:</h3>
 
